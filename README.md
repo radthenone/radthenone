@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<div id="header" align="center" class="display: inline-block;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTI5NzFkZjY3MDc0OTFiNTk3M2JjMzEzYzBlNWQwYTZiMDZiNiZjdD1n/GcSqyYa2aF8dy/giphy.gif" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radthenone&show_icons=true&theme=vue-dark&langs_count=8" width="275" />
+</div>
+<div id="header" align="center" class="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=radthenone&show_icons=true&theme=vue-dark" width="575" />
+</div>
 <!--
 **radthenone/radthenone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radthenone&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radthenone&show_icons=true&theme=vue-dark&langs_count=8)](https://github.com/radthenone)
