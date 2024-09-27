@@ -22,14 +22,14 @@ My name is Radek, and I have been passionate about programming in <img src="http
     :books: here are my social media links:
     <div>
       <div id="badges">
-          <a href="https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/krzyzak21/">
+          <a href="https://www.linkedin.com/in/krzyzak21">
               <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
           <a href="https://krzyzak21.cytr.us/#en">
-              <img src="https://img.shields.io/badge/My Portfolio Website-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+              <img src="https://img.shields.io/badge/My Portfolio Website-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Badge"/>
           </a>
       </div>
-      <p>You can contact me at <a href="mailto:krzyzak21@gmail.com">:e-mail:</a></p>
+      <p>You can contact me at <a href="mailto:krzyzak.codes@gmail.com">:e-mail:</a></p>
 </div>
 <br>
 <div align="center">
