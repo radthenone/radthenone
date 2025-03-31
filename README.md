@@ -2,7 +2,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/120286486/428437434-ac320431-b257-4715-92d3-99f632af63e8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNzg5NDMsIm5iZiI6MTc0MzM3ODY0MywicGF0aCI6Ii8xMjAyODY0ODYvNDI4NDM3NDM0LWFjMzIwNDMxLWIyNTctNDcxNS05MmQzLTk5ZjYzMmFmNjNlOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMzMFQyMzUwNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMTJiNzEyMzA1NDhjZWI3MzhjNmI4OGQ5ZGZmZjc4Y2Y5NTI0YTkyZGI5MGY2YzI3MzJjMGU4YjkyNWQ1NjY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CFtXwCzkCGkI0uELLV4PcfmQB-mOG68kIs3PyHv7sQw" width="500" height="300" style="max-width: 100%; height: auto;"/>
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh3.googleusercontent.com/pw/AP1GczNt6Tb33BKW2XlMsAkzzScx5-n8Sccdd_pMr8NPWEbf223mxi0le8NY4pLD-kdguJK0VRr4ug1kkGC2Bq4XMTNY0aVgris9kdcJKYUK3DaUS3cRHQbNKwzA6c11OkYTjO3IWSHXCM2aPClVIOdfkCWb=w500-h333-s-no-gm?authuser=0" style="max-width: 100%; height: auto;"/>
     <p style="font-size: 18px; line-height: 1.6;">
         Welcome to my GitHub!
 My name is Radek, and I have been passionate about programming in <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> and <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="20" height="20"/>
