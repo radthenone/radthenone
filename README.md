@@ -33,20 +33,11 @@ My name is Radek, and I have been passionate about programming in <img src="http
 <div align="center">
     :sunrise_over_mountains: My workout:
 </div>
-<br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 <table style="width: 100%; text-align: center;">
     <tr>
         <td style="width: 48%;"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmZTI5NzFkZjY3MDc0OTFiNTk3M2JjMzEzYzBlNWQwYTZiMDZiNiZjdD1n/GcSqyYa2aF8dy/giphy.gif" 
              style="max-width: 100%; height: auto;" /></td>
-        <td style="width: 275px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radthenone&show_icons=true&theme=vue-dark&langs_count=8" 
-             style="max-width: 100%; height: auto;" /></td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <img src="https://github-readme-stats.vercel.app/api?username=radthenone&show_icons=true&theme=vue-dark" 
-                 style="width: 100%; max-width: 100%; height: auto;" />
-        </td>
     </tr>
 </table>
 </div>
